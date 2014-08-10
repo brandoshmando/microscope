@@ -36,11 +36,11 @@ body {
   float: left;
 }
 .post .post-content { float: left }
-.post .post-content h3 {
+/*.post .post-content h3 {
   margin: 0;
   line-height: 1.4;
   font-size: 18px;
-￼}
+￼}*/
 
 .post .post-content h3 a {
   display: inline-block;
